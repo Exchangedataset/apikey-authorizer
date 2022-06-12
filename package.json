@@ -1,0 +1,15 @@
+{
+  "name": "apikey_authorizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "urlsafe-base64": "^1.0.0"
+  }
+}
